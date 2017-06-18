@@ -3,7 +3,7 @@
 //  First App
 //
 //  Created by Yossi's macbook air on 7/6/17.
-//  Copyright © 2017 Yossi's macbook air. All rights reserved...uuytuytuy
+//  Copyright © 2017 Yossi's macbook air. All rights reserved.
 //
 
 import UIKit
